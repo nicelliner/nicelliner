@@ -21,10 +21,10 @@
 </p>
 
 ### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/nicelliner)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/nicelliner)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/nicelliner)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/nicelliner)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/nicelliner)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/nicelliner)
 
 ### Technologies & Frameworks
 [![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://hub.docker.com/u/wervlad)
