@@ -6,9 +6,9 @@
         I'm Rostislav<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/%D1%80%D0%BE%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D0%B3%D1%80%D0%B8%D1%89%D0%B5%D0%BD%D0%BA%D0%BE-701057212">
+<!--     <a href="https://www.linkedin.com/in/%D1%80%D0%BE%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D0%B3%D1%80%D0%B8%D1%89%D0%B5%D0%BD%D0%BA%D0%BE-701057212">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
+    </a> -->
     <a href="roshpil.ro@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
