@@ -6,7 +6,6 @@
         I'm Rostislav<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-
     <a href="roshpil.ro@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
